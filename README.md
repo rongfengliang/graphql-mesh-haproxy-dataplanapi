@@ -29,3 +29,7 @@ for example:
 ```json
 {"basePath":"http://admin:dalong@127.0.0.1:5555/v2}
 ```
+
+* testing
+
+Running docker-compose  `cd docker-compose && docker-compose up -d`
