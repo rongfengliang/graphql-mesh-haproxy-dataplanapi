@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@graphql-mesh/cli": "^0.1.17",
+    "@graphql-mesh/openapi": "^0.1.17",
+    "@graphql-mesh/runtime": "^0.1.17",
+    "graphql": "^15.0.0"
+  },
+  "scripts": {
+    "start": "graphql-mesh serve"
+  }
+}
